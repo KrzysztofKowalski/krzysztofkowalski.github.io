@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tarot-reader/static/css/main.786f41a8.chunk.css",
-    "main.js": "/tarot-reader/static/js/main.45ce0599.chunk.js",
-    "main.js.map": "/tarot-reader/static/js/main.45ce0599.chunk.js.map",
+    "main.css": "/tarot-reader/static/css/main.7e8468f7.chunk.css",
+    "main.js": "/tarot-reader/static/js/main.a740dc1a.chunk.js",
+    "main.js.map": "/tarot-reader/static/js/main.a740dc1a.chunk.js.map",
     "runtime-main.js": "/tarot-reader/static/js/runtime-main.bfb4269f.js",
     "runtime-main.js.map": "/tarot-reader/static/js/runtime-main.bfb4269f.js.map",
     "static/css/2.117c93c2.chunk.css": "/tarot-reader/static/css/2.117c93c2.chunk.css",
@@ -10,15 +10,15 @@
     "static/js/2.e7ee29ab.chunk.js.map": "/tarot-reader/static/js/2.e7ee29ab.chunk.js.map",
     "index.html": "/tarot-reader/index.html",
     "static/css/2.117c93c2.chunk.css.map": "/tarot-reader/static/css/2.117c93c2.chunk.css.map",
-    "static/css/main.786f41a8.chunk.css.map": "/tarot-reader/static/css/main.786f41a8.chunk.css.map",
+    "static/css/main.7e8468f7.chunk.css.map": "/tarot-reader/static/css/main.7e8468f7.chunk.css.map",
     "static/js/2.e7ee29ab.chunk.js.LICENSE.txt": "/tarot-reader/static/js/2.e7ee29ab.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tarot-reader/static/media/Eczar-Regular-webfont.32d314b0.woff"
+    "static/media/App.css": "/tarot-reader/static/media/zorza.95e31114.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfb4269f.js",
     "static/css/2.117c93c2.chunk.css",
     "static/js/2.e7ee29ab.chunk.js",
-    "static/css/main.786f41a8.chunk.css",
-    "static/js/main.45ce0599.chunk.js"
+    "static/css/main.7e8468f7.chunk.css",
+    "static/js/main.a740dc1a.chunk.js"
   ]
 }
